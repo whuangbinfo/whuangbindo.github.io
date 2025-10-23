@@ -1,0 +1,22 @@
+title: "Yung Hsing (Winston) Huang"
+description: "Bioinformatics • Cancer Research • Spatial Omics"
+baseurl: ""
+url: "https://winstonhyh.github.io"
+
+theme: minima
+
+author:
+  name: "Yung Hsing (Winston) Huang"
+  email: "winstonhyh@live.com"
+  location: "Houston, TX"
+  phone: "(832) 664-1350"
+  github: whuangbinfo
+  linkedin: yung-hsing-huang
+
+header_pages:
+  - about.md
+  - research.md
+  - projects.md
+  - cv.md
+  - contact.md
+
